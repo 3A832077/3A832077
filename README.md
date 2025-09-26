@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi I' m ting :)
 
-<!--
-**3A832077/3A832077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Frontend Engineer - Angular
+- 🎯 目標：學習更多前端框架 - Vue/React
+- ✨ 興趣：聽音樂 玩遊戲
 
-Here are some ideas to get you started:
+## 🛠 Skills
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-9E7A7A?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-6699A1?style=flat-square)
+![HTML](https://img.shields.io/badge/Html-EBB471?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend & DB
+![Java](https://img.shields.io/badge/Java-F4A7B9?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-7DB9DE?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-91B493?style=flat-square)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-D9CD90?style=flat-square)
+![VSCode](https://img.shields.io/badge/VSCode-33A6B8?style=flat-square)
+![SourceTree](https://img.shields.io/badge/SourceTree-A5DEE4?style=flat-square)
